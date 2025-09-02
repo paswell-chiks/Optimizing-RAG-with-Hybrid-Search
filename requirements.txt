@@ -1,0 +1,13 @@
+# To install these dependencies, run:
+# pip install -r requirements.txt
+
+pandas
+numpy
+joblib
+sentence-transformers
+torch
+transformers
+bm25s
+together
+requests
+ipywidgets
