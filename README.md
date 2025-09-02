@@ -79,21 +79,7 @@ This query tests the system's ability to handle specific, technical terms and ac
 
 ---
 
-### Example 2: Conceptual Query ("Projected economic growth")
-
-This query is broader and requires understanding the user's intent beyond simple keywords. This is where semantic understanding should shine.
-
-![Economic Growth Query Comparison Part 1](outputs/q2_img1.png)
-![Economic Growth Query Comparison Part 2](outputs/q2_img2.png)
-
-**Observation**:
-* **Semantic Search** correctly grasps the *concept* of "economic growth" and provides a relevant, summarized answer.
-* **Reciprocal Rank Fusion (Hybrid)** again proves superior by creating a highly detailed and well-structured response. It synthesizes specific data points from the latest GDP reports (a strength of BM25) with the broader economic outlook (a strength of Semantic Search).
-* **Without RAG**, the model gives a generic, unhelpful list of potential sources, completely failing to answer the user's actual question about the projection.
-
----
-
-### Example 3: Broad Topic Query with Sources ("Recent news in technology")
+### Example 2: Broad Topic Query with Sources ("Recent news in technology")
 
 This tests the system's ability to synthesize information on a general topic and ground its response in verifiable, up-to-date sources.
 
@@ -131,8 +117,8 @@ You can replicate this analysis and experiment with your own queries.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/nabeelshan78/Optimizing-RAG-with-Hybrid-Search.git
+    cd Optimizing-RAG-with-Hybrid-Search
     ```
 
 2.  **Install the required dependencies:**
